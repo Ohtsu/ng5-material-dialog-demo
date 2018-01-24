@@ -1,0 +1,16 @@
+
+<div>
+  <h2 mat-dialog-title>Hi {{data.name}} </h2>
+  <mat-dialog-content>
+    What's your favorite animal ?
+    <mat-form-field>
+      <input matInput [(ngModel)]="data.animal" >
+    </mat-form-field>
+  </mat-dialog-content>
+  <mat-dialog-actions>
+    <div ngPreserveWhitespaces>
+      <button mat-raised-button (click)="onCloseNo()">No Thanks</button>
+      <button mat-raised-button (click)="onCloseOk()">Ok</button>
+    </div>
+  </mat-dialog-actions>
+</div>
