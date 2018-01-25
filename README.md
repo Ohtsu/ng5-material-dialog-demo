@@ -84,10 +84,17 @@ If you start local server as follows, you can get the first page in your browser
 $ ng serve
 ```
 
-  - ***First Page*** 
+  - ***default Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-checkbox-01.png" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-dialog-01.png" width= "640" >
 
+  - ***Dialog*** 
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-dialog-11.png" width= "640" >
+
+  - ***Return Values*** 
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-dialog-21.png" width= "640" >
 
 #### Stop Local Server
 
