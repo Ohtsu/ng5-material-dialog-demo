@@ -124,7 +124,7 @@ Input **Ctrl+C** and **y+Return** to stop the local server.
 
 ## Change Log
 
- - 2018.1.25  version 0.1.3 uploaded
+ - 2018.1.25  version 0.1.4 uploaded
 
 
 ## Copyright
