@@ -6,7 +6,7 @@
 _ng5-material-dialog-demo_ is an Angular5  demo project for programmers who want to use Angular Material Checkbox.
 
 _Video Explanation_
-<https://youtu.be/s0b3y1PWfSY>
+<https://youtu.be/zgLgallOcCQ>
 
 _Full Source Code_
 <https://github.com/Ohtsu/ng5-material-dialog-demo>
